@@ -1,0 +1,23 @@
+{
+  "name": "signalingrtc",
+  "version": "1.0.0",
+  "description": "signaling server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabhsar/SignalingRTC.git"
+  },
+  "author": "Sarthak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabhsar/SignalingRTC/issues"
+  },
+  "homepage": "https://github.com/sabhsar/SignalingRTC#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
